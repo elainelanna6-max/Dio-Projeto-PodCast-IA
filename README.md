@@ -1,5 +1,9 @@
 # Dio-Projeto-PodCast-IA
 # 🎙️ Descomplicando o Departamento Pessoal: Os Primeiros Passos no DP
+<p align="center">
+  <img src="Gemini_Generated_Image_ah2dx3ah2dx3ah2d.png" width="350">
+</p>
+
 
 ## 📖 Sobre o Projeto
 
